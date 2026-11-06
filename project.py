@@ -1,6 +1,6 @@
 # CTE213 Project - Workshop Energy Cost Estimator
 # Name: saviour jeremiah etim - ND2 Mechatronics YABATECH
-#F/ND/24/3450003
+#F/ND/24/345000
 
 def calc_kwh(power, hours):
     kwh = (power / 1000) * hours
